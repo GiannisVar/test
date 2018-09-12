@@ -1,0 +1,9 @@
+start services
+
+redirect to sociable path initial folder 
+
+php -S localhost:8888 -t public 
+
+
+How to test the games at Sociable
+
